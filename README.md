@@ -32,7 +32,7 @@ Como Usar
 
 Clone este repositório em sua máquina:
 
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://github.com/eufernandesalcantara/amigoSecreto.git
 
 Abra o arquivo index.html em qualquer navegador web.
 
